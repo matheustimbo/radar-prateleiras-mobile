@@ -1,0 +1,4 @@
+#Sun Mar 22 02:52:32 BRT 2020
+base.0=/Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

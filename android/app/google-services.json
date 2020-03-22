@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "265240370923",
+    "firebase_url": "https://radar-prateleiras-teste.firebaseio.com",
+    "project_id": "radar-prateleiras-teste",
+    "storage_bucket": "radar-prateleiras-teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265240370923:android:4879de589bd43b471428ae",
+        "android_client_info": {
+          "package_name": "com.radarprateleiras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265240370923-n1cf8s2g36a0vrmd7dkefbkvantaljka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB3KL_Df4fKhgiKNgfWN1vvtpES9sZ99I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265240370923-n1cf8s2g36a0vrmd7dkefbkvantaljka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

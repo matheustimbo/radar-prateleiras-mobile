@@ -1,0 +1,571 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-community_geolocation] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_database] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-firebase_app] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-maps] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-permissions] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/819d7df316e63c6762f6819f220a4225/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4f53146f1a03e9dc4e9466a00e3c6452/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/a22040bb7f1b27a3ae08ca7662a08c22/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ee2405bf74cc61407ac44a9b545bb753/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/eb789577fc16069097550cb96b4322c2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b93364f693c7fcce9e576a02c9e42fdd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b8c07008f7d02a021a6c422f8ddcc1f8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/0aea9d340ab5506fa4c23cc47cd7d7f2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/d7658498d37e46d9152f2b3c649bdc84/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4493cbc8239efc06dc02ff515863d29b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ff96f35fc4e926eafaa095c3e0c458c8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/17556c11cfe50d34d522f599f3b9ee5d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/597916944be59e50a799a625c809d06d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f698c81c9b305e110e5c0f75c6ab1e9d/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/676a560ae56d38993b7ff212ef4bea44/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/2ae46d98172d7f3a5af01255d49780ea/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6800b817b608ebb6e9a39ca151258888/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/340cac086616dee6f28c043efc5e82e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fb044770aec5493c19b6846f58402b19/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/09a798f03ebe6f7589236b6fe84a1b8e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/60bbf114b0c7aa4205271398b5cc3dfd/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4531a7c0d65c1d6fabea84088793fec6/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ec98162dc3aa80df14f256b83c81c591/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fd3dfd4fd0422207536ce127ceccce60/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fe2fedd498f43cc22e640419ef61fcf7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/8dd9e4a380d21a82f02f4c59942c9102/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dcb32c8934a3882185887c00bf70930e/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c6d9fbf693ff749a153f174018b97655/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/30791adad4a072fb8fe81fd64a9f9559/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/9f403d9e7ffab88e87a1d6b4f9be55f5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c55c5bab443fcbbeeaaa76388939d752/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/997651001a744981cf1a5773fea4c3df/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/5715a492cd3e755281deccc190a50fbd/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/88b965d895339e3b5a6ef7b2858a6c55/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b4b261c64a50d6f66a8295a5b3c30189/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/9b94ccc0ab2f4a4a7c9b772fe33b7164/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b974c1c8555ca150819e1caf0b17f2f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/03705f908495d7401d5762d4551b947e/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/631256976b747729967e3d71cbbb25a1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/103366b4e3261039def00b81558e5b67/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/a23c2fb92f6eb0e96ce0dca31da0c6d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/d846c230599b2d6fcc3c99b0ff3d0109/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/bd5c3ed7586f9153cfce8204567e0eee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/d9805ca561e23b02847cf58ae4a424f5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f156bc06291d22268127e9ede396e5ce/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/7368471839f29e0e40acf7936670b6f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/188b7bb69d66bff146a87c3bee496280/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/a0abb331142df0016b1ba84d304ca696/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b9027dd833a3083e73177b847354f797/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/d592953083a03f28e9b45a51d89360ad/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/34f059b37a0293018783839f797886f7/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c9f12c7ae0b8483f6d7be44ee22d942f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/491535e9380c64a4a4904c3210538ba6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/0a3d45f1209b900a8330bacd7da7257b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/076759ceb512220104f82a6c01d4d61a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/84ae9084dda9ef84cef210c43b842ce3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6017b5c5467314f9cc32eb85e90cf2c8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/bfcc82479dafa4fbd3500c541a898068/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/51157c3a7df83ec3d264096185718cc1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/98769cbe29c8cde4a41eeea2ab257096/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/77fbe8a83f96f708a782a1b70df70237/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/64a53505b2bed786b7f886fb5402db58/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ea336f5fc60b3053a4edb42b09aa5910/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b627ff981d3bfb147a2ddda41bf16087/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/9ad81745aa34a6dc3bf52bb813fb19bf/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:2:3-33
+		INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase_database] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_database] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-maps] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f698c81c9b305e110e5c0f75c6ab1e9d/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f698c81c9b305e110e5c0f75c6ab1e9d/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fb044770aec5493c19b6846f58402b19/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fb044770aec5493c19b6846f58402b19/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dcb32c8934a3882185887c00bf70930e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dcb32c8934a3882185887c00bf70930e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c6d9fbf693ff749a153f174018b97655/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c6d9fbf693ff749a153f174018b97655/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:6:5-28:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/819d7df316e63c6762f6819f220a4225/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/819d7df316e63c6762f6819f220a4225/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/a22040bb7f1b27a3ae08ca7662a08c22/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/a22040bb7f1b27a3ae08ca7662a08c22/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/17556c11cfe50d34d522f599f3b9ee5d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/17556c11cfe50d34d522f599f3b9ee5d/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/597916944be59e50a799a625c809d06d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/597916944be59e50a799a625c809d06d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f698c81c9b305e110e5c0f75c6ab1e9d/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f698c81c9b305e110e5c0f75c6ab1e9d/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/676a560ae56d38993b7ff212ef4bea44/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/676a560ae56d38993b7ff212ef4bea44/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/2ae46d98172d7f3a5af01255d49780ea/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/2ae46d98172d7f3a5af01255d49780ea/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6800b817b608ebb6e9a39ca151258888/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6800b817b608ebb6e9a39ca151258888/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fb044770aec5493c19b6846f58402b19/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fb044770aec5493c19b6846f58402b19/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/09a798f03ebe6f7589236b6fe84a1b8e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/09a798f03ebe6f7589236b6fe84a1b8e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/60bbf114b0c7aa4205271398b5cc3dfd/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/60bbf114b0c7aa4205271398b5cc3dfd/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4531a7c0d65c1d6fabea84088793fec6/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4531a7c0d65c1d6fabea84088793fec6/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ec98162dc3aa80df14f256b83c81c591/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ec98162dc3aa80df14f256b83c81c591/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fd3dfd4fd0422207536ce127ceccce60/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fd3dfd4fd0422207536ce127ceccce60/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fe2fedd498f43cc22e640419ef61fcf7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fe2fedd498f43cc22e640419ef61fcf7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/8dd9e4a380d21a82f02f4c59942c9102/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/8dd9e4a380d21a82f02f4c59942c9102/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dcb32c8934a3882185887c00bf70930e/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dcb32c8934a3882185887c00bf70930e/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/30791adad4a072fb8fe81fd64a9f9559/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/30791adad4a072fb8fe81fd64a9f9559/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/9f403d9e7ffab88e87a1d6b4f9be55f5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/9f403d9e7ffab88e87a1d6b4f9be55f5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c55c5bab443fcbbeeaaa76388939d752/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c55c5bab443fcbbeeaaa76388939d752/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/997651001a744981cf1a5773fea4c3df/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/997651001a744981cf1a5773fea4c3df/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/5715a492cd3e755281deccc190a50fbd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/5715a492cd3e755281deccc190a50fbd/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/d592953083a03f28e9b45a51d89360ad/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/d592953083a03f28e9b45a51d89360ad/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/34f059b37a0293018783839f797886f7/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/34f059b37a0293018783839f797886f7/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/d592953083a03f28e9b45a51d89360ad/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:7:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:13:7-15:66
+	android:value
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:15:9-64
+	android:name
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:14:9-54
+uses-library#org.apache.http.legacy
+ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:16:7-85
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fb044770aec5493c19b6846f58402b19/AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fb044770aec5493c19b6846f58402b19/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:16:59-83
+	android:name
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:16:21-58
+activity#com.radarprateleiras.MainActivity
+ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:17:7-26:18
+	android:label
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml:27:17-81
+uses-sdk
+INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-community_geolocation] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_database] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_database] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/819d7df316e63c6762f6819f220a4225/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/819d7df316e63c6762f6819f220a4225/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4f53146f1a03e9dc4e9466a00e3c6452/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4f53146f1a03e9dc4e9466a00e3c6452/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/a22040bb7f1b27a3ae08ca7662a08c22/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/a22040bb7f1b27a3ae08ca7662a08c22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ee2405bf74cc61407ac44a9b545bb753/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ee2405bf74cc61407ac44a9b545bb753/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/eb789577fc16069097550cb96b4322c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/eb789577fc16069097550cb96b4322c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b93364f693c7fcce9e576a02c9e42fdd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b93364f693c7fcce9e576a02c9e42fdd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b8c07008f7d02a021a6c422f8ddcc1f8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b8c07008f7d02a021a6c422f8ddcc1f8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/0aea9d340ab5506fa4c23cc47cd7d7f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/0aea9d340ab5506fa4c23cc47cd7d7f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/d7658498d37e46d9152f2b3c649bdc84/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/d7658498d37e46d9152f2b3c649bdc84/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4493cbc8239efc06dc02ff515863d29b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4493cbc8239efc06dc02ff515863d29b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ff96f35fc4e926eafaa095c3e0c458c8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ff96f35fc4e926eafaa095c3e0c458c8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/17556c11cfe50d34d522f599f3b9ee5d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/17556c11cfe50d34d522f599f3b9ee5d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/597916944be59e50a799a625c809d06d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/597916944be59e50a799a625c809d06d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f698c81c9b305e110e5c0f75c6ab1e9d/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f698c81c9b305e110e5c0f75c6ab1e9d/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/676a560ae56d38993b7ff212ef4bea44/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/676a560ae56d38993b7ff212ef4bea44/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/2ae46d98172d7f3a5af01255d49780ea/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/2ae46d98172d7f3a5af01255d49780ea/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6800b817b608ebb6e9a39ca151258888/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6800b817b608ebb6e9a39ca151258888/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/340cac086616dee6f28c043efc5e82e0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/340cac086616dee6f28c043efc5e82e0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fb044770aec5493c19b6846f58402b19/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fb044770aec5493c19b6846f58402b19/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/09a798f03ebe6f7589236b6fe84a1b8e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/09a798f03ebe6f7589236b6fe84a1b8e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/60bbf114b0c7aa4205271398b5cc3dfd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/60bbf114b0c7aa4205271398b5cc3dfd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4531a7c0d65c1d6fabea84088793fec6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4531a7c0d65c1d6fabea84088793fec6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ec98162dc3aa80df14f256b83c81c591/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ec98162dc3aa80df14f256b83c81c591/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fd3dfd4fd0422207536ce127ceccce60/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fd3dfd4fd0422207536ce127ceccce60/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fe2fedd498f43cc22e640419ef61fcf7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fe2fedd498f43cc22e640419ef61fcf7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/8dd9e4a380d21a82f02f4c59942c9102/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/8dd9e4a380d21a82f02f4c59942c9102/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dcb32c8934a3882185887c00bf70930e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dcb32c8934a3882185887c00bf70930e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c6d9fbf693ff749a153f174018b97655/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c6d9fbf693ff749a153f174018b97655/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/30791adad4a072fb8fe81fd64a9f9559/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/30791adad4a072fb8fe81fd64a9f9559/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/9f403d9e7ffab88e87a1d6b4f9be55f5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/9f403d9e7ffab88e87a1d6b4f9be55f5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c55c5bab443fcbbeeaaa76388939d752/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c55c5bab443fcbbeeaaa76388939d752/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/997651001a744981cf1a5773fea4c3df/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/997651001a744981cf1a5773fea4c3df/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/5715a492cd3e755281deccc190a50fbd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/5715a492cd3e755281deccc190a50fbd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/88b965d895339e3b5a6ef7b2858a6c55/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/88b965d895339e3b5a6ef7b2858a6c55/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b4b261c64a50d6f66a8295a5b3c30189/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b4b261c64a50d6f66a8295a5b3c30189/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/9b94ccc0ab2f4a4a7c9b772fe33b7164/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/9b94ccc0ab2f4a4a7c9b772fe33b7164/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b974c1c8555ca150819e1caf0b17f2f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b974c1c8555ca150819e1caf0b17f2f2/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/03705f908495d7401d5762d4551b947e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/03705f908495d7401d5762d4551b947e/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/631256976b747729967e3d71cbbb25a1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/631256976b747729967e3d71cbbb25a1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/103366b4e3261039def00b81558e5b67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/103366b4e3261039def00b81558e5b67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/a23c2fb92f6eb0e96ce0dca31da0c6d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/a23c2fb92f6eb0e96ce0dca31da0c6d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/d846c230599b2d6fcc3c99b0ff3d0109/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/d846c230599b2d6fcc3c99b0ff3d0109/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/bd5c3ed7586f9153cfce8204567e0eee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/bd5c3ed7586f9153cfce8204567e0eee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/d9805ca561e23b02847cf58ae4a424f5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/d9805ca561e23b02847cf58ae4a424f5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f156bc06291d22268127e9ede396e5ce/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f156bc06291d22268127e9ede396e5ce/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/7368471839f29e0e40acf7936670b6f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/7368471839f29e0e40acf7936670b6f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/188b7bb69d66bff146a87c3bee496280/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/188b7bb69d66bff146a87c3bee496280/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/a0abb331142df0016b1ba84d304ca696/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/a0abb331142df0016b1ba84d304ca696/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b9027dd833a3083e73177b847354f797/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b9027dd833a3083e73177b847354f797/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/d592953083a03f28e9b45a51d89360ad/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/d592953083a03f28e9b45a51d89360ad/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/34f059b37a0293018783839f797886f7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/34f059b37a0293018783839f797886f7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c9f12c7ae0b8483f6d7be44ee22d942f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c9f12c7ae0b8483f6d7be44ee22d942f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/491535e9380c64a4a4904c3210538ba6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/491535e9380c64a4a4904c3210538ba6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/0a3d45f1209b900a8330bacd7da7257b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/0a3d45f1209b900a8330bacd7da7257b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/076759ceb512220104f82a6c01d4d61a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/076759ceb512220104f82a6c01d4d61a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/84ae9084dda9ef84cef210c43b842ce3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/84ae9084dda9ef84cef210c43b842ce3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6017b5c5467314f9cc32eb85e90cf2c8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6017b5c5467314f9cc32eb85e90cf2c8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/bfcc82479dafa4fbd3500c541a898068/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/bfcc82479dafa4fbd3500c541a898068/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/51157c3a7df83ec3d264096185718cc1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/51157c3a7df83ec3d264096185718cc1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/98769cbe29c8cde4a41eeea2ab257096/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/98769cbe29c8cde4a41eeea2ab257096/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/77fbe8a83f96f708a782a1b70df70237/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/77fbe8a83f96f708a782a1b70df70237/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/64a53505b2bed786b7f886fb5402db58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/64a53505b2bed786b7f886fb5402db58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ea336f5fc60b3053a4edb42b09aa5910/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ea336f5fc60b3053a4edb42b09aa5910/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b627ff981d3bfb147a2ddda41bf16087/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/b627ff981d3bfb147a2ddda41bf16087/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/9ad81745aa34a6dc3bf52bb813fb19bf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/9ad81745aa34a6dc3bf52bb813fb19bf/AndroidManifest.xml:5:5-44
+INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_database] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dcb32c8934a3882185887c00bf70930e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dcb32c8934a3882185887c00bf70930e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c6d9fbf693ff749a153f174018b97655/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c6d9fbf693ff749a153f174018b97655/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase_database] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_database] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f698c81c9b305e110e5c0f75c6ab1e9d/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f698c81c9b305e110e5c0f75c6ab1e9d/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fb044770aec5493c19b6846f58402b19/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fb044770aec5493c19b6846f58402b19/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dcb32c8934a3882185887c00bf70930e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dcb32c8934a3882185887c00bf70930e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c6d9fbf693ff749a153f174018b97655/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/c6d9fbf693ff749a153f174018b97655/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase_database] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /Users/matheustimbo/Documents/Estudos/React-Native/radarprateleiras/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-78
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f698c81c9b305e110e5c0f75c6ab1e9d/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6800b817b608ebb6e9a39ca151258888/AndroidManifest.xml:13:9-17:35
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6800b817b608ebb6e9a39ca151258888/AndroidManifest.xml:13:9-17:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f698c81c9b305e110e5c0f75c6ab1e9d/AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6800b817b608ebb6e9a39ca151258888/AndroidManifest.xml:17:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6800b817b608ebb6e9a39ca151258888/AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f698c81c9b305e110e5c0f75c6ab1e9d/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f698c81c9b305e110e5c0f75c6ab1e9d/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f698c81c9b305e110e5c0f75c6ab1e9d/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/f698c81c9b305e110e5c0f75c6ab1e9d/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ddc683ba144f9e84ea7c94f9c63e9b21/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dff3be1c93a6b1ef35c59594a4b9f52d/AndroidManifest.xml:42:25-78
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6800b817b608ebb6e9a39ca151258888/AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6800b817b608ebb6e9a39ca151258888/AndroidManifest.xml:21:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6800b817b608ebb6e9a39ca151258888/AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6800b817b608ebb6e9a39ca151258888/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/6800b817b608ebb6e9a39ca151258888/AndroidManifest.xml:20:13-77
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fb044770aec5493c19b6846f58402b19/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fb044770aec5493c19b6846f58402b19/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/fb044770aec5493c19b6846f58402b19/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4531a7c0d65c1d6fabea84088793fec6/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4531a7c0d65c1d6fabea84088793fec6/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4531a7c0d65c1d6fabea84088793fec6/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4531a7c0d65c1d6fabea84088793fec6/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ec98162dc3aa80df14f256b83c81c591/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/5715a492cd3e755281deccc190a50fbd/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/5715a492cd3e755281deccc190a50fbd/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ec98162dc3aa80df14f256b83c81c591/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/ec98162dc3aa80df14f256b83c81c591/AndroidManifest.xml:9:13-58
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dcb32c8934a3882185887c00bf70930e/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dcb32c8934a3882185887c00bf70930e/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dcb32c8934a3882185887c00bf70930e/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/dcb32c8934a3882185887c00bf70930e/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/matheustimbo/.gradle/caches/transforms-2/files-2.1/4eb5774e036b7ff435ab62bd5b03ec5a/AndroidManifest.xml:49:13-87

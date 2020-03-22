@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>265240370923-r5k541i365sb37gpq6j0tu114lffmt56.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.265240370923-r5k541i365sb37gpq6j0tu114lffmt56</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDUV4RTtflwmWr66SKcPvjhMEyD2j8KHYs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>265240370923</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.radarprateleira</string>
+	<key>PROJECT_ID</key>
+	<string>radar-prateleiras-teste</string>
+	<key>STORAGE_BUCKET</key>
+	<string>radar-prateleiras-teste.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:265240370923:ios:3b8a30cb796fd22b1428ae</string>
+	<key>DATABASE_URL</key>
+	<string>https://radar-prateleiras-teste.firebaseio.com</string>
+</dict>
+</plist>
